@@ -1,0 +1,8 @@
+[ 2025-04-22 14:19:31,483 ] 97 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.29.11:8080
+[ 2025-04-22 14:19:31,483 ] 97 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[ 2025-04-22 14:19:39,238 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 14:19:39] "GET / HTTP/1.1" 200 -
+[ 2025-04-22 14:19:39,530 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 14:19:39] "GET /static/styles.css HTTP/1.1" 200 -
+[ 2025-04-22 14:19:39,552 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 14:19:39] "[33mGET /Tracking_Headline.png HTTP/1.1[0m" 404 -

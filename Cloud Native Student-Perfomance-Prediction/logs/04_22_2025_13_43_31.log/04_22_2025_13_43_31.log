@@ -1,0 +1,17 @@
+[ 2025-04-22 13:43:31,746 ] 97 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.29.11:8080
+[ 2025-04-22 13:43:31,746 ] 97 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[ 2025-04-22 13:43:36,791 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:43:36] "GET / HTTP/1.1" 200 -
+[ 2025-04-22 13:43:36,846 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:43:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[ 2025-04-22 13:45:16,309 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:45:16] "GET / HTTP/1.1" 200 -
+[ 2025-04-22 13:45:16,321 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:45:16] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[ 2025-04-22 13:45:17,044 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:45:17] "GET / HTTP/1.1" 200 -
+[ 2025-04-22 13:45:17,365 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:45:17] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[ 2025-04-22 13:45:18,023 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:45:18] "GET / HTTP/1.1" 200 -
+[ 2025-04-22 13:45:18,034 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:45:18] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[ 2025-04-22 13:45:18,344 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:45:18] "GET / HTTP/1.1" 200 -
+[ 2025-04-22 13:45:18,560 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:45:18] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[ 2025-04-22 13:45:21,017 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:45:21] "GET / HTTP/1.1" 200 -
+[ 2025-04-22 13:45:21,028 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:45:21] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -

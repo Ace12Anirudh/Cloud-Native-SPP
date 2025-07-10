@@ -1,0 +1,52 @@
+[ 2025-04-22 13:30:49,957 ] 97 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.29.11:8080
+[ 2025-04-22 13:30:49,957 ] 97 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[ 2025-04-22 13:30:55,729 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:30:55] "GET / HTTP/1.1" 200 -
+[ 2025-04-22 13:30:56,027 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:30:56] "GET /static/styles.css HTTP/1.1" 200 -
+[ 2025-04-22 13:31:16,960 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:31:16] "GET / HTTP/1.1" 200 -
+[ 2025-04-22 13:31:17,282 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:31:17] "GET /static/styles.css HTTP/1.1" 200 -
+[ 2025-04-22 13:31:17,735 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:31:17] "GET / HTTP/1.1" 200 -
+[ 2025-04-22 13:31:17,745 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:31:17] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[ 2025-04-22 13:32:41,862 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:32:41] "GET / HTTP/1.1" 200 -
+[ 2025-04-22 13:32:41,882 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:32:41] "GET /static/styles.css HTTP/1.1" 200 -
+[ 2025-04-22 13:32:42,125 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:32:42] "[33mGET /static/..Tracking_Headline.png HTTP/1.1[0m" 404 -
+[ 2025-04-22 13:32:43,029 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:32:43] "GET / HTTP/1.1" 200 -
+[ 2025-04-22 13:32:43,038 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:32:43] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[ 2025-04-22 13:34:22,458 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:34:22] "GET / HTTP/1.1" 200 -
+[ 2025-04-22 13:34:22,469 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:34:22] "GET /static/styles.css HTTP/1.1" 200 -
+[ 2025-04-22 13:34:23,198 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:34:23] "GET / HTTP/1.1" 200 -
+[ 2025-04-22 13:34:23,521 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:34:23] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[ 2025-04-22 13:36:13,639 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:36:13] "GET / HTTP/1.1" 200 -
+[ 2025-04-22 13:36:13,657 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:36:13] "GET /static/styles.css HTTP/1.1" 200 -
+[ 2025-04-22 13:36:13,907 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:36:13] "[33mGET /static/Tracking_Headline.png HTTP/1.1[0m" 404 -
+[ 2025-04-22 13:36:15,417 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:36:15] "GET / HTTP/1.1" 200 -
+[ 2025-04-22 13:36:15,425 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:36:15] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[ 2025-04-22 13:36:16,026 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:36:16] "GET / HTTP/1.1" 200 -
+[ 2025-04-22 13:36:16,336 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:36:16] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[ 2025-04-22 13:36:21,689 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:36:21] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[ 2025-04-22 13:38:25,658 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:38:25] "GET / HTTP/1.1" 200 -
+[ 2025-04-22 13:38:25,672 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:38:25] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[ 2025-04-22 13:38:25,922 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:38:25] "[33mGET /static/Tracking_Headline.png HTTP/1.1[0m" 404 -
+[ 2025-04-22 13:38:37,022 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:38:37] "GET / HTTP/1.1" 200 -
+[ 2025-04-22 13:38:37,056 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:38:37] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[ 2025-04-22 13:38:37,285 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:38:37] "[33mGET /static/Tracking_Headline.png HTTP/1.1[0m" 404 -
+[ 2025-04-22 13:38:42,455 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:38:42] "GET / HTTP/1.1" 200 -
+[ 2025-04-22 13:38:42,464 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:38:42] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[ 2025-04-22 13:38:42,704 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:38:42] "[33mGET /static/Tracking_Headline.png HTTP/1.1[0m" 404 -
+[ 2025-04-22 13:41:23,251 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:41:23] "GET / HTTP/1.1" 200 -
+[ 2025-04-22 13:41:23,269 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:41:23] "GET /static/styles.css HTTP/1.1" 200 -
+[ 2025-04-22 13:41:23,519 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:41:23] "[33mGET /Tracking_Headline.png HTTP/1.1[0m" 404 -
+[ 2025-04-22 13:41:24,320 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:41:24] "GET / HTTP/1.1" 200 -
+[ 2025-04-22 13:41:24,332 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:41:24] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[ 2025-04-22 13:41:25,029 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:41:25] "GET / HTTP/1.1" 200 -
+[ 2025-04-22 13:41:25,339 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:41:25] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[ 2025-04-22 13:41:26,007 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:41:26] "GET / HTTP/1.1" 200 -
+[ 2025-04-22 13:41:26,024 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:41:26] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[ 2025-04-22 13:43:07,828 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:43:07] "GET / HTTP/1.1" 200 -
+[ 2025-04-22 13:43:07,837 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:43:07] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[ 2025-04-22 13:43:08,971 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:43:08] "GET / HTTP/1.1" 200 -
+[ 2025-04-22 13:43:09,287 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:43:09] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[ 2025-04-22 13:43:10,327 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:43:10] "GET / HTTP/1.1" 200 -
+[ 2025-04-22 13:43:10,334 ] 97 werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 13:43:10] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
